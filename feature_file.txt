@@ -1,1 +1,2 @@
 Feature file text
+Some changes to feature file text
