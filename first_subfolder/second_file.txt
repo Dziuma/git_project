@@ -1,1 +1,2 @@
 Second file text
+Changes to second file from feature branch
